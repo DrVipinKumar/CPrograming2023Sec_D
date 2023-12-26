@@ -1,0 +1,1 @@
+int mca=100;  //declaration and defination
